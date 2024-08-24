@@ -6,9 +6,9 @@ import streamlit as st
 import os
 
 os.environ['LANGCHAIN_TRACING_V2']= 'true'
-os.environ['LANGCHAIN_API_KEY'] = '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'
+os.environ['LANGCHAIN_API_KEY'] = os.getenv('LANGCHAIN_KEY')
 
-st.title("Langchain Chatbot With Llama 3")
+st.title("AI Companion With Llama 3")
 input_text = st.text_area("Search the topic you want...")
 
 prompt = ChatPromptTemplate.from_messages(
