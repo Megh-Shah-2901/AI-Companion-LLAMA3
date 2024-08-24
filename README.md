@@ -62,7 +62,7 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](url) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Megh-Shah-2901/AI-Companion-LLAMA3/blob/main/LICENSE) file for details.
 
 Contact
 
