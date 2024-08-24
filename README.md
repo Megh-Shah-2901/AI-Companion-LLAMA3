@@ -8,7 +8,7 @@ This project demonstrates how to integrate Langchain and LLAMA3 to create a conv
 
 # Features
 
-•	LLAMA3 Integration: Utilizes the LLAMA3 model for generating accurate and context-aware responses.< br / >
+•	LLAMA3 Integration: Utilizes the LLAMA3 model for generating accurate and context-aware responses.<br/>
 •	Langchain Prompting: Leverages Langchain to structure prompts and guide the AI’s output.<br/>
 •	Streamlit Interface: Provides a user-friendly web interface to interact with the AI.<br/>
 •	Ollama LLM: Uses the Ollama library to access and manage the LLAMA3 model.
